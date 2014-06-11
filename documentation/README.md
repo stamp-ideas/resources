@@ -25,3 +25,15 @@ To optimize an image, use 'Save for Web' in Photoshop (`Shift+Alt+Cmd+S`). Make 
 ### Links
 
 [Litmus on Animated GIF Usage](https://litmus.com/blog/a-guide-to-animated-gifs-in-email "Litmus Animation Article")
+[Maximum Email Size](http://www.emailonacid.com/blog/details/C13/when_it_comes_to_html_email_size_does_matter "Maximum Email Size")
+
+### Resources
+
+* [Email Standards Project](http://www.email-standards.org/ "Email Standards Project")
+* [Current Browser Support](http://www.email-standards.org/clients/ "Browser Support")
+* [Litmus Email Testing](http://litmus.com/email-testing "Litmus Email Testing")
+* [Litmus Scope](https://litmus.com/scope/ "Litmus Scope")
+* [Campaign Monitor](http://www.campaignmonitor.com/ "Campaign Monitor")
+* [CSS Support in Clients](http://www.campaignmonitor.com/css/ "CSS Support")
+* [MailChimp](http://mailchimp.com/ "MailChimp")
+* [ConstantContact](http://www.constantcontact.com/index.jsp "Constant Contact")
