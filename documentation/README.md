@@ -24,8 +24,8 @@ To optimize an image, use 'Save for Web' in Photoshop (`Shift+Alt+Cmd+S`). Make 
 
 ### Links
 
-[Litmus on Animated GIF Usage](https://litmus.com/blog/a-guide-to-animated-gifs-in-email "Litmus Animation Article")
-[Maximum Email Size](http://www.emailonacid.com/blog/details/C13/when_it_comes_to_html_email_size_does_matter "Maximum Email Size")
+* [Litmus on Animated GIF Usage](https://litmus.com/blog/a-guide-to-animated-gifs-in-email "Litmus Animation Article")
+* [Maximum Email Size](http://www.emailonacid.com/blog/details/C13/when_it_comes_to_html_email_size_does_matter "Maximum Email Size")
 
 ### Resources
 
