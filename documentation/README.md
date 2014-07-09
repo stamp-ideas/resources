@@ -1,9 +1,9 @@
 Documentation
-======
+===========
 
 This is the documentation for every process we have at Stamp Ideas. It's meant to be an organizing tool for us to see how we do what we do, and ways to optimize the processes as a whole.
 
-## Email Development
+# Email Development
 
 ### Step 1: Duplicate Previous Job Folder
 
@@ -29,6 +29,7 @@ To optimize an image, use 'Save for Web' in Photoshop (`Shift+Alt+Cmd+S`). Make 
 
 ### Resources
 
+* [Email Testing](http://www.campaignmonitor.com/testing/ "Email Testing")
 * [Email Standards Project](http://www.email-standards.org/ "Email Standards Project")
 * [Current Browser Support](http://www.email-standards.org/clients/ "Browser Support")
 * [Litmus Email Testing](http://litmus.com/email-testing "Litmus Email Testing")
