@@ -2,13 +2,19 @@
 
 ### Step 1: Make a folder on the Development server. (Job code should be name)
 
-- Make an images folder in this directory
+When you first get the Job Jacket, make a folder on the Development server with the same name as the Job #. (i.e.: `XX01-XXXX`). This keeps everything organized in the Dev folder, and allows for easy lookup of past jobs.
 
 ### Step 2: Duplicate a Similar Job, or the Template
 
+If you've been told there's a similar email that was done in the past (and there probably is), find that job and duplicate the folder. (Update the name to your new Job #.) Check the Job Jacket for any reference number, and that'll probably make it much easier to find the previous job.
+
 ### Step 3: Open the PSD and save a copy in the folder you made previously
 
+Go to the Job folder on the `Agency` server, and open the PSD in the `Working` directory. Before you change anything, be sure and `Save As...` into your new folder on the Development server.
+
 ### Step 4: Clear Guides on PSD
+
+The artist has probably made a few guides on the document while they were creating it. Since you've saved it as a copy in the previous step, clear all the guides by going to `View > Clear Guides.`
 
 ---
 
@@ -16,9 +22,15 @@ Repeat these two steps for every image you'd like to link:
 
 ### Step 5: Make selection + Place Guide(s)
 
+For every image that needs to link somewhere, select the image with the `M` selection tool, and place guides around the selection. This ensures that you're *actually* placing the guides on the edges of the image, because Photoshop allows you to place guides on subpixels, which you can't crop.
+
 ### Step 6: Save for Web into images folder
 
-  - JPEG
+Crop the image by pressing `C` and `Enter`. The artboard will crop to the selection you made in the previous step. Press `Shift+Alt+Cmd+S` to Save for Web. Use the following suggestions:
+
+#### JPEGs
+Use this filetype for high-color photos, or any other photorealistic. 
+
     - Pictures, photos, other high-color images
   - PNG-8 or 24
     - Solid colors, no gradients, TEXT
