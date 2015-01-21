@@ -51,13 +51,13 @@ If you're working from the email template, and there isn't a similar job done in
 
 Here's a checklist for writing emails:
 
-  [ ] Add/update `ALT` text
-  [ ] Add/Update Subject line (Also used in `<title>`)
-  [ ] Add/Update `View this Email Online` link (to client server `email` folder)
-  [ ] Add/Update Plain Text version
-  [ ] Add/Update links provided by AE/AC
-  [ ] Explicitly declare width/heights on images
-  [ ] Ensure that images use absolute linking (so they don't break in MobileStorm)
+- [ ] Add/update `ALT` text
+- [ ] Add/Update Subject line (Also used in `<title>`)
+- [ ] Add/Update `View this Email Online` link (to client server `email` folder)
+- [ ] Add/Update Plain Text version
+- [ ] Add/Update links provided by AE/AC
+- [ ] Explicitly declare width/heights on images
+- [ ] Ensure that images use absolute linking (so they don't break in MobileStorm)
   
 ### Step 9: Upload to client's server
 
