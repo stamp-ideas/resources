@@ -18,3 +18,7 @@ If this is missing, use this as a starting point:
 
     User-agent: *
     Disallow: /
+
+### Check for the Sitemap
+
+It's unlikely that the site doesn't have a sitemap, but just in case check in `Crawl>Sitemaps` to make sure one is uploaded. If it's been a while since the sitemap was updated, generate and submit a new one.
